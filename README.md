@@ -13,9 +13,9 @@
 
 ---
 
-22 anos, cursando Segurança da Informação na PUC Minas. Desenvolvimento web e segurança ofensiva não são mundos separados pra mim — cada projeto é pensado com os dois em mente.
+22 anos, cursando Segurança da Informação na PUC Minas. Desenvolvimento web e segurança ofensiva não são mundos separados pra mim, cada projeto é pensado com os dois em mente.
 
-Certificados em desenvolvimento web pelo ProgBr e em cibersegurança pelo TryHackMe. Em busca de um time onde segurança, qualidade e atenção aos detalhes realmente importam — um lugar pra contribuir e continuar evoluindo.
+Certificados em desenvolvimento web pelo ProgBr e em cibersegurança pelo TryHackMe. Em busca de um time onde segurança, qualidade e atenção aos detalhes realmente importam, um lugar pra contribuir e continuar evoluindo.
 
 Disponível para estágios em Segurança da Informação e Desenvolvimento Web.
 
